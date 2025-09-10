@@ -1,3 +1,7 @@
+./scripts-by-chapter/chapter-1.sh
+./scripts-by-chapter/chapter-2.sh
+./scripts-by-chapter/chapter-3.sh
+
 echo "***************************************************"
 echo "********* CHAPTER 4 - STARTED AT $(date) **********"
 echo "***************************************************"

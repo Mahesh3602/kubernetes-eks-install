@@ -36,4 +36,20 @@ aws configure
 
 # Fifth script installation
 ./scripts-by-chapter/chapter-5.sh
-  #
+  ## export AWS_ACCOUNT_ID
+  ## Create the CodeCommit Repository for each app
+  ## Get the CodeCommit credentials for the "cloud_user" IAM user
+  ## Get the Repositories' URLs
+  ## Init Git config - for 1 app check test.sh
+  ## Initial Push to the Git Repositories
+  ## Install ECR and CodeBuild jobs
+  ## Install Automatic Building job
+  ## Add the IAM Role to the aws-auth Config Map
+  ## Automatic Deployment to Development Environment
+  ## Updating Development
+  
+  ##  Create the Production DynamoDB Tables
+  ## Create IAM Policies of Bookstore Microservices
+  ## Create IAM Service Accounts
+  ## Installing the Production applications
+  ## Automatic Deployment to Production Environment
