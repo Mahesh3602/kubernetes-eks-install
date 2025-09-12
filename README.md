@@ -1,6 +1,9 @@
 # configure AWS account
 aws configure
 
+# original git repo 
+https://github.com/pluralsight-cloud/hands-on-with-amazon-eks
+
 # First script installtion 
    ## creates cluster:eks-acg, nodegroup:eks-node-group & VPC
    ## t3.medium nodes are created
